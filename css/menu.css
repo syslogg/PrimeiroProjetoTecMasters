@@ -1,0 +1,71 @@
+body {
+	font:14px Arial, Tahoma, Verdana;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+h1 {
+	font:19px Arial, Tahoma, Verdana;
+	font-weight:bold;
+	font-style:italic;
+	color:#fff;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+ul{
+   list-style-type:none;
+}
+
+ul#menu{
+   margin:0 auto;
+}
+
+ul#menu li{
+   position:relative;
+   float:left;
+}
+
+ul#menu li a{
+      display:block;
+      float:left;
+      padding:0 15px;
+      height:30px;
+      line-height:25px;
+      color:#FFF;
+      text-decoration:none;
+	  text-shadow: black 0.1em 0.1em 0.2em;
+}
+ul#menu li a:hover{
+   }
+ul#menu li ul{
+      display:none;
+      position:absolute;
+      top:30px;
+      left:0;
+}
+
+ul#menu li:hover ul,
+ul#menu li.hover ul{
+      display:block;
+   }
+
+ul#menu li ul li a{
+	  margin-top:3px;
+	  background:#333;
+      width:120px;
+      border-bottom:1px solid #666;
+      clear:both;
+	  font:14px Arial, Tahoma, Verdana;
+	  height:23px;
+}
+
+ul#menu li ul li{
+      float:none;
+      clear:both;
+}
+
+ul#menu li ul li a{
+	  float:none;
+	  
+}
+ul#menu li ul li a:hover{
+	  background:#fff;
+}

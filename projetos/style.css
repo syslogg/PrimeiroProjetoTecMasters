@@ -1,0 +1,13 @@
+body {
+	padding:0;
+	margin:0;
+	background:gray;
+}
+#tudo {
+	background:white;
+	width:900px;
+	margin:10px auto;
+}
+#topo {
+	background:url(img/bg-topo.jpg) repeat-x top;
+}

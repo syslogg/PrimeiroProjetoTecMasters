@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	padding:0;
+	margin:0;
+}
+body {
+	background:url("../imgs/bg-meio.gif") #fff;
+}
+ul {
+	list-style:none;
+}
+a {
+	text-decoration:none;
+	color:#000;
+}
+#menutop {
+	height:50px;
+	color:#fff;
+	padding:10px 100px 0 100px;
+	display:inline;
+}
+#menutop ul {
+	list-style:none;
+	float:left;
+	margin:0 auto;
+}
+#menutop ul li {
+	display:inline;
+	margin:5px;
+}
+#menutop ul li a {
+	color:#FFF;
+	font:24px Arial, Tahoma, Verdana;
+	text-decoration:none;
+}
+#menutop ul li a:hover {
+	text-shadow: 0 0 0.2em # F87, 0 0 0.2em # F87;
+	color:#666;
+}
+#topo {
+	height:336px;
+	background:url(../imgs/bg-top.png) repeat-x center;
+}
+#conteudo {
+	width:900px;
+	margin:0 auto;
+	height:260px;
+}
+#conteudo h3 {
+	float:left;
+}
+#conteudo h3 img{
+	margin-top:31px;
+	margin-left:20px;
+}
+#bloco2 {
+	float:right;
+	width:300px;
+	height:258px;
+	margin:13px 0 0 0;
+}
+#rodape {
+	background:url(../imgs/bg-rodape.png) repeat-x center;
+	height:219px;
+	clear:both;
+}
+#noticias {
+	width:200px;
+}
+#noticias ul li {
+	background:#fff;
+	text-decoration:none;
+	color:#000;
+	border-bottom:2px solid #666;
+	width:200px;
+	font:14px Arial, Tahoma, Verdana;
+	font-weight:bold;
+	font-style:italic;
+}
+#noticias ul li :hover{
+	border-bottom:2px solid #333;
+}
+#noticias ul li a {
+	background:#fff;
+	text-decoration:none;
+	color:#000;
+	border-bottom:2px solid #666;
+	width:200px;
+	font:14px Arial, Tahoma, Verdana;
+	font-weight:bold;
+	font-style:italic;
+}
+#noticias ul li a:hover {
+	color:#666;
+	border-bottom:2px solid #333;
+}
+#enquete {
+	color:#fff;
+	float:right;
+	margin-top:16px;
+	margin-right:5px;
+}
+#enquete h2{
+	color:#fff;
+	font:16px Arial, Tahoma, Verdana;
+	font-weight:bold;
+	font-style:italic;
+}
+#meio {
+	width:1000px;
+	clear:both;
+	margin:0 auto;
+	position:relative;
+}
+#ul-tutoriais{
+	float:left;
+	clear:left;
+	text-decoration:none;
+	margin-top:15px;
+}
+#ul-artigos{
+	float:right;
+	clear:right;
+	margin-top:15px;
+}
+#destaques{
+	float:left;
+}
+#equipe{
+	float:right;
+	border:3px solid black;
+}
+#cima{
+	height:300px;
+}
+#baixo{
+	height:300px;
+}
+#titulo {
+				margin-right:10px;
+				float:left;
+}
+#categoria {
+	margin-right:10px;
+}
+#autor {
+	float:right;
+	}
+#div-central {
+	clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+

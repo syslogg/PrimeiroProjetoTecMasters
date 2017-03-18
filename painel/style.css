@@ -1,0 +1,135 @@
+body {
+	background:url(img/bg-top.png) repeat-x #fff;
+	font:12px Arial, Tahoma, Verdana;
+	font-weight:bold;
+	font-style:italic;
+}
+#login {
+	background:url(img/bg-login.gif) no-repeat center;
+	height:384px;
+	margin:0 auto;
+	padding:5px;
+}
+#login form {
+	margin-top:140px;
+}
+#topo {
+	margin:0 auto;
+	height:395px;
+	width:900px;
+}
+#topo h2 img {
+	float:right;
+	margin:50px 0 60px 0;
+}
+#topo h1 img {
+	float:left;
+	margin:50px 0 0 0;
+}
+#barrinha {
+	background:url(img/barrinha.gif) no-repeat;
+	width:209px;
+	height:16px;
+	float:right;
+	padding:13px;
+	color:white;
+	font-weight:bold;
+	font-style:italic;
+	text-align:center;
+}
+#acc {
+	float:right;
+	background:url(img/acc.gif) no-repeat;
+	width:554px;
+	height:36px;
+	padding:35px 15px 0 15px;
+	color:white;
+	font-weight:bold;
+	font-style:italic;
+}
+#acc ul {
+	margin:0 auto;
+}
+#acc ul li{
+	display:inline;
+	margin:0 auto;
+}
+#acc ul li a{
+	margin:5px;
+	font:16px Arial, Tahoma, Verdana;
+	font-weight:bold;
+	font-style:italic;
+	padding:5px;
+	text-decoration:none;
+	color:white;
+}
+#acc ul li a:hover{
+	background:white;
+	color:#6EB3B8;
+}
+#aviso {
+	float:right;
+	background:url(img/aviso.gif) no-repeat;
+	width:584px;
+	height:71px;
+	width:554px;
+	height:36px;
+	padding:35px 15px 0 15px;
+	color:white;
+	font-weight:bold;
+	font-style:italic;
+}
+#meio {
+	width:900px;
+	margin:0 auto;
+}
+#menu {
+	width:148px;
+	float:left;
+	padding:3px;
+}
+#menu ul {
+	
+}
+#menu ul li {
+	list-style:none;
+}
+#menu ul li a{
+	padding:0 0 0 70px;
+	border-bottom:2px solid black;
+	text-decoration:none;
+	font:20px Arial, Tahoma, Verdana;
+	color:black;
+}
+#menu ul li a:hover{
+	background:#C8E4EA;
+}
+#conteudo {
+	float:right;
+	width:554px;
+	background:#6EB3B8;
+	padding:15px;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
